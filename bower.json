@@ -2,7 +2,7 @@
   "name": "oh-snap",
   "main": "ohsnap.js",
   "version": "1.0.0",
-  "homepage": "https://github.com/justindominbue/ohSnap",
+  "homepage": "https://github.com/quasoft/ohSnap/tree/modularized",
   "authors": [
     "justindomingue <justin.domingue@hotmail.com>"
   ],

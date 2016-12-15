@@ -1,3 +1,5 @@
+This is a fork of [OhSnap!.js](https://github.com/justindomingue/ohSnap) that makes it easier to use with browserify.
+
 OhSnap!.js
 =========
 
@@ -12,8 +14,8 @@ Check out this [demo page](http://justindomingue.github.io/ohSnap/ "Demo")
 Dependency: [jQuery](http://jquery.com) or [Zepto](http://zeptojs.com).
 
 Download ohSnap.js:
-- from [Github](https://raw.githubusercontent.com/justindomingue/ohSnap/master/ohsnap.js)
-- with Bower: `bower install oh-snap`.
+- from [Github](https://github.com/quasoft/ohSnap/tree/modularized)
+- with Bower: `bower install https://github.com/quasoft/ohSnap.git#modularized`.
 
 Add a `div.ohsnap` which will contain the alerts :
 
@@ -74,4 +76,4 @@ Furthermore, ohSnap.js creates a div with classes `.alert .alert-color` so you w
     }
 
 
-By **Justin Domingue**
+By **Justin Domingue** - original project at [OhSnap!.js](https://github.com/justindomingue/ohSnap)
